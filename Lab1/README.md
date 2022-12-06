@@ -4,7 +4,7 @@
 
 El programa **virt-manager** permite realizar operaciones básicas de gestión de máquinas virtuales. Para arrancar la herramienta en el lab:
 
-		$ HOME=/mnt/tmp sudo virt-manager
+	$ HOME=/mnt/tmp sudo virt-manager
 		
 ### 1.1 - Creación de máquinas virtuales KVM con imágenes en formato raw
 

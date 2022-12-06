@@ -1,0 +1,1 @@
+# PRÁCTICA 0: Comandos básicos de Linux
